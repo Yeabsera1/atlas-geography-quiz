@@ -1,6 +1,3 @@
-Here's an updated version of your current README with the added details about **Clerk**, the **Open Trivia Database API**, and other relevant instructions:
-
----
 
 # Atlas - Geography Trivia Game
 
@@ -87,9 +84,21 @@ Check out the [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Author
 
+
 - **Yeabsera Ababu**
 - **Email**: yeabsera.m.ababu@vanderbilt.edu
+- 
 
----
+## Features
 
-You can further adjust it by including additional sections like **Features**, **Screenshots**, or **API Documentation** depending on what else you’d like to highlight. Let me know if you need further changes!
+- User authentication using **Clerk**
+- Questions dynamically fetched from the **Open Trivia Database (OpenTDB) API**
+- Different difficulty levels for more challenge
+- Responsive design using **Tailwind CSS**
+- Real-time score tracking
+- Able to have more than 10 question to answer if wanted (up to 15 for boolean questions and 50 for multiple choice!)
+
+## Reflection
+
+While building Atlas, I learned how to integrate APIs for both authentication (Clerk) and quiz content (OpenTDB). I enjoyed developing the game logic and ensuring the app provided a seamless user experience. Given more time, I would focus on enhancing the styling and adding features like hints or more diverse question types (e.g., images or maps).I would have also looked into better api's that give better questions. This project challenged me to implement both frontend and backend skills, and I gained valuable experience in building RESTful APIs.
+
