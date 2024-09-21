@@ -1,0 +1,27 @@
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    /* background-color: #333; */
+    padding: 10px 20px;
+}
+
+.loginBtn a {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.loginBtn a:hover {
+    background-color: #45a049;
+    transform: translateY(-2px);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
