@@ -87,7 +87,6 @@ Check out the [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 - **Yeabsera Ababu**
 - **Email**: yeabsera.m.ababu@vanderbilt.edu
-- 
 
 ## Features
 
